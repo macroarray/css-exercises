@@ -1,0 +1,24 @@
+.odd-elements{
+    color: rgb(rgb(230, 114, 114));
+    background-color: pink;
+    font-family: Verdana,"DeJaVu Sans",sans-serif
+
+
+
+}
+#two{
+    color:blue;
+    font-size: 36px;
+}
+#three{
+    font-size: 24px;
+
+}
+#four{
+    background-color: lightgreen
+
+}
+#four{
+    font-size: 24px;
+    font-weight: bold;
+}
